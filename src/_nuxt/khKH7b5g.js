@@ -1,0 +1,1 @@
+import{b as e}from"./CtvzWlFT.js";import{u as r}from"./5gcwzotE.js";async function a(t,o){const{$encryptData:s}=e();return await r.post("/api/auth/login",{username:t,password:s(o,"sys")})}const i=Object.freeze(Object.defineProperty({__proto__:null,sysLogin:a},Symbol.toStringTag,{value:"Module"}));export{i as s};

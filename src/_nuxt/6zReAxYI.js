@@ -1,0 +1,1 @@
+import{u as t}from"./5gcwzotE.js";async function e(n){}async function o(){return await t.get("",{c:"a"})}const c=Object.freeze(Object.defineProperty({__proto__:null,addYdAcc:e,oneApi:o},Symbol.toStringTag,{value:"Module"}));export{c as y};
